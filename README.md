@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Khiyani</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend Focused | Passionate Learner | Open-Source Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Focused | Passionate Learner </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atul-khiyani-880b382a5/" target="_blank">
@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I'm a 3rd-year Computer Science student passionate about building scalable and intelligent web apps.
-- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, **REST APIs**, and eager to explore **AI & ML**.
+- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, **REST APIs**, and eager to explore **GEN AI**.
 - 🚀 Currently building real-world projects like **NyayaSetu**, **WanderLust**, **Portfolio** and more.
 - 🌱 Learning: Microservices, Redis, AI integrations, and system design.
 
