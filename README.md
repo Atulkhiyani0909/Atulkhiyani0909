@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Khiyani</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend Focused | Passionate Learner </h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Focused | Passionate Learner | Open-Source Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atul-khiyani-880b382a5/" target="_blank">
@@ -18,8 +18,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I'm a 3rd-year Computer Science student passionate about building scalable and intelligent web apps.
-- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, **REST APIs**, and eager to explore **GEN AI**.
-- 🚀 Currently building real-world projects like **NyayaSetu**, **WanderLust**, and more.
+- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, **REST APIs**, and eager to explore **AI & ML**.
+- 🚀 Currently building real-world projects like **NyayaSetu**, **WanderLust**, **Portfolio** and more.
 - 🌱 Learning: Microservices, Redis, AI integrations, and system design.
 
 ---
@@ -41,16 +41,21 @@
 
 ---
 
-## 🧠 Featured Projects
+## 📌 Featured Projects
 
-### 🔹 [NyayaSetu](https://github.com/Atulkhiyani0909/NyayaSetu)  
+### 🔹 [NyayaSetu](https://github.com/Atulkhiyani0909/ByteVerse_NayaSetu)  
 An AI-powered legal aid and complaint redressal platform for government services.  
 > 🔹 OTP & guest login, complaint tracker, AI chatbot (RAG), dashboard for officials.  
 > 🛠 Node.js, Express.js, MongoDB, JWT, Tailwind CSS, Render
 
-### 🔹 [WanderLust](https://github.com/Atulkhiyani0909/WanderLust)  
-A property listing and viewing website (not for sale, just list & view) with full authentication.  
-> 🛠 Tech: Node.js, Express.js, MongoDB, Passport.js, Cloudinary, EJS
+### 🔹 [WanderLust](https://github.com/Atulkhiyani0909/Wanderlust-project)  
+A property listing and viewing platform (not for sale) with full authentication system.  
+> 🛠 Node.js, Express.js, MongoDB, Passport.js, Cloudinary, EJS
+
+### 🔹 [Portfolio](https://github.com/Atulkhiyani0909/Portfolio)  
+My personal developer portfolio website to showcase projects, skills, and experience.  
+> 🔹 Modern layout, responsive design, contact form, and project highlights  
+> 🛠 HTML, CSS, JavaScript
 
 ---
 
