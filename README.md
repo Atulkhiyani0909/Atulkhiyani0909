@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Atul Khiyani
+A passionate Full Stack Developer from India 🇮🇳
 
-<!--
-**Atulkhiyani0909/Atulkhiyani0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+...
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+- 🔗 [NyayaSetu](https://github.com/Atulkhiyani0909/NyayaSetu): AI-powered legal aid platform for government service complaints.
+- 🔗 [WanderLust](https://github.com/Atulkhiyani0909/WanderLust): Property listing and viewing app with authentication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atulkhiyani0909&show_icons=true&theme=github_dark)
+
+## 🔥 Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Atulkhiyani0909&theme=dark)](https://git.io/streak-stats)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-khiyani/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
