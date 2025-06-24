@@ -18,9 +18,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I'm a 3rd-year Computer Science student passionate about building scalable and intelligent web apps.
-- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, **REST APIs**, and eager to explore **GEN AI**.
-- 🚀 Currently building real-world projects like **NyayaSetu**, **WanderLust**, **Portfolio** and more.
-- 🌱 Learning: Microservices, Redis, AI integrations, and system design.
+- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, **REST APIs**, and eager to explore **GEN AI**
 
 ---
 
