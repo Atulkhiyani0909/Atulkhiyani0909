@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0A66C2;">Atul Khiyani</span></h1>
-<h3 align="center">🚀 Developer | Backend Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Developer | Backend Enthusiast | GenAI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atul-khiyani-880b382a5/" target="_blank">
