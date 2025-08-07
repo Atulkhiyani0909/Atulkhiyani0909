@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 3rd-year Computer Science student passionate about building impactful tech products.
-- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, and now exploring **Generative AI**
+- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, and  exploring **Generative AI ** **langChain** **langGraph** **Agentic AI**
 - ⚡ I love solving real-world problems and learning new technologies.
 
 ---
