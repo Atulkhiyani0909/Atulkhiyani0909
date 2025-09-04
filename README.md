@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0A66C2;">Atul Khiyani</span></h1>
-<h3 align="center">🚀 Developer | Backend Enthusiast | GenAI Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Backend Developer | GenAI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atul-khiyani-880b382a5/" target="_blank">
@@ -15,56 +15,43 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 3rd-year Computer Science student passionate about building impactful tech products.
-- 💻 Skilled in **Node.js**, **MongoDB**, **Express**, **JavaScript**, and  exploring **Generative AI ** **langChain** **langGraph** **Agentic AI**
-- ⚡ I love solving real-world problems and learning new technologies.
+## 🧑‍💻 About Me  
+- 🎓 **3rd-year Computer Science student** passionate about building scalable, developer-friendly solutions.  
+- 💻 Skilled in **Backend Development**, **Databases**, and **Agentic AI Workflows**.  
+- 🔍 Exploring **LangChain**, **LangGraph**, and **Generative AI for real-world applications**.  
+- ⚡ I believe in **learning by building** and love turning complex problems into elegant solutions.  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
-### 🧠 Languages
+### 🧠 Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-### 🛠️ Tools & Frameworks
+### 🛠️ Frameworks, Tools & Libraries  
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat-square&logo=recoil)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io)
+
+### 🗄️ Databases & ORMs  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### ☁️ Cloud & DevOps  
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-1E90FF?style=flat-square&logo=render)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 [NyayaSetu](https://github.com/Atulkhiyani0909/ByteVerse_NayaSetu)
-> AI-powered legal aid platform to bridge citizens and government services  
-> 🧠 Features: Guest login, Complaint Tracker, RAG-based AI chatbot, Admin Panel  
-> ⚙️ **Tech:** Node.js, MongoDB, Express.js, Tailwind CSS, JWT
-
----
-
-### 🔹 [WanderLust](https://github.com/Atulkhiyani0909/Wanderlust-project)
-> Property listing and viewing app with complete authentication  
-> ✨ Search, filter, upload properties — Cloudinary & Passport.js integrated  
-> ⚙️ **Tech:** Node.js, MongoDB, Express.js, Passport, EJS
-
----
-
-### 🔹 [Portfolio](https://github.com/Atulkhiyani0909/Portfolio)
-> My personal portfolio website showcasing all projects and skills  
-> 🧩 Responsive, modern layout with contact form and project cards  
-> ⚙️ **Tech:** HTML, CSS, JavaScript
-
----
-
-## 📈 GitHub Stats
-
+## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atulkhiyani0909&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
   <br />
@@ -73,19 +60,16 @@
 
 ---
 
-## 🔢 LeetCode Progress
-
+## 🔢 LeetCode Journey  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/atulkhiyani09?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
 
-## 💡 Fun Fact
-
-```js
+## 💡 Fun Fact  
 while(alive) {
-   code();
-   learn();
-   build();
+code();
+learn();
+build();
 }
