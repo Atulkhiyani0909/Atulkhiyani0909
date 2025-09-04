@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me  
 - 🎓 **3rd-year Computer Science student** passionate about building scalable, developer-friendly solutions.  
-- 💻 Skilled in **Backend Development**, **Databases**, and **Agentic AI Workflows**.  
+- 💻 Skilled in **Backend Development**, **Databases**. 
 - 🔍 Exploring **LangChain**, **LangGraph**, and **Generative AI for real-world applications**.  
 - ⚡ I believe in **learning by building** and love turning complex problems into elegant solutions.  
 
